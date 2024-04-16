@@ -1,0 +1,72 @@
+test17 match
+
+Rule: First to 3
+
+---------Leg 1----------- (0 , 0)
+Leg 1 houssem is first game on.
+
+
+---ahmed---
+501-180=321
+321-150=171
+171-150=21
+
+---houssem---
+501-180=321
+321-140=181
+181-150=31
+X2
+
+Game shot Leg 1 houssem.
+
+---------Leg 2----------- (0 , 1)
+Leg 2 ahmed is first game on.
+
+
+---ahmed---
+501-180=321
+321-180=141
+X3
+
+---houssem---
+501-140=361
+361-123=238
+
+Game shot Leg 2 ahmed.
+
+---------Leg 3----------- (1 , 1)
+Leg 3 houssem is first game on.
+
+
+---ahmed---
+501-180=321
+321-150=171
+171-151=20
+X1
+
+---houssem---
+501-180=321
+321-120=201
+201-57=144
+144-20=124
+
+Game shot Leg 3 ahmed.
+
+---------Leg 4----------- (2 , 1)
+Leg 4 ahmed is first game on.
+
+
+---ahmed---
+501-180=321
+321-180=141
+No score 
+141-74=67
+X2
+
+---houssem---
+501-45=456
+456-25=431
+431-150=281
+281-180=101
+
+Game shot and match ahmed
