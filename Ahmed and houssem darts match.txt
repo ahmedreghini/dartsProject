@@ -1,0 +1,73 @@
+Ahmed and houssem darts match
+
+Rule: First to 3
+
+---------Leg 1----------- (0 , 0)
+Leg 1 Houssem is first game on.
+
+
+---Ahmed---
+501-145=356
+356-180=176
+176-170=6
+
+---Houssem---
+501-180=321
+321-123=198
+198-180=18
+X1
+
+Game shot Leg 1 Houssem.
+
+---------Leg 2----------- (0 , 1)
+Leg 2 Ahmed is first game on.
+
+
+---Ahmed---
+501-140=361
+361-177=184
+184-180=4
+X1
+
+---Houssem---
+501-180=321
+321-180=141
+You require 141
+141-95=46
+
+Game shot Leg 2 Ahmed.
+
+---------Leg 3----------- (1 , 1)
+Leg 3 Houssem is first game on.
+
+
+---Ahmed---
+No score 
+501-180=321
+321-180=141
+
+---Houssem---
+501-180=321
+321-180=141
+You require 141
+141-100=41
+X2
+
+Game shot Leg 3 Houssem.
+
+---------Leg 4----------- (1 , 2)
+Leg 4 Ahmed is first game on.
+
+
+---Ahmed---
+501-180=321
+321-180=141
+You require 141
+141-45=96
+
+---Houssem---
+501-180=321
+321-180=141
+X3
+
+Game shot and match Houssem

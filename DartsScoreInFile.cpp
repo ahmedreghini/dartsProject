@@ -50,10 +50,17 @@ void PSome(string& pName, int& pScore, int& pLegWin, string& pBuffer)
     cin.ignore(1000,'\n');
     if((pScore-someOfDarts) > 0 && (pScore-someOfDarts)  != 1)
     {
+        if (pScore != (162 || 163 || 165 || 166 || 168 || 169) && pScore <= 170)
+        {
+            pBuffer += "You require " + to_string(pScore) + "\n";
+            cout << "You require " << to_string(pScore) << "\n";
+        }
+
         pBuffer += to_string(pScore) + "-" + to_string(someOfDarts) + "=";
         pScore -= someOfDarts;
         pBuffer += to_string(pScore) + "\n";
         cout << pName << " score is " << pScore << endl;
+        
     }
     else if ((pScore-someOfDarts) == 1 || (pScore-someOfDarts) < 0)
     {
